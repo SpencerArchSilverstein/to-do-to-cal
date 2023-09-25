@@ -1,0 +1,6 @@
+MONTH/DAY
+Monday, CLASSA, 1hr, Write 250 Words, Need to write 250 words
+Tuesday, CLASSB, 5hr, HW0, Need to go to office hours
+Wednesday, CLASSC, 4hr, Homework 2, Should check Quizlet for answer confirmation
+Thursday, CLASSD, 2hr, HW1, Need to start!
+Friday, General, 1hr, Chores, Need to clean room!
